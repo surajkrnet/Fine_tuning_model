@@ -1,0 +1,7 @@
+streamlit
+transformers
+datasets
+torch
+accelerate
+pandas
+matplotlib
